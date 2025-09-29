@@ -194,7 +194,7 @@ Le pull request sono benvenute! Per modifiche importanti, apri prima un issue pe
 
 ## 📄 Licenza
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](./MIT-License)
 
 ## 📧 Contatti
 
